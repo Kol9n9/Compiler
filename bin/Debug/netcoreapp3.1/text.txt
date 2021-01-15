@@ -1,0 +1,8 @@
+int a, b;
+a = 5;
+read(b);
+write(a+b);
+if(a+b == 10)
+{
+write(210);
+}
